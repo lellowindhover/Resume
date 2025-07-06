@@ -1,0 +1,5 @@
+{
+  "name": "Digital Resume | Gaio Bardelle",
+  "description": "An interactive digital portfolio and resume for Gaio Bardelle, built with React and Tailwind CSS. It showcases professional experience, skills, and education, with a feature to download the resume as a PDF.",
+  "requestFramePermissions": []
+}
