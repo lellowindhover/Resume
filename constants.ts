@@ -17,7 +17,7 @@ export const WORK_HISTORY: WorkExperience[] = [
         role: "Technical Support and Italian Language Liaison",
         company: "Estella Group (Pty) Ltd",
         location: "Cape Town, South Africa",
-        period: "10/2023 - Current",
+        period: "10/2024 - Current",
         responsibilities: [
             "Electrical repairs on industrial sewing and automated dyeing machinery.",
             "Translations for maintenance services, internal communications and management of relationships with external companies.",
@@ -28,7 +28,7 @@ export const WORK_HISTORY: WorkExperience[] = [
         role: "Tourism Services",
         company: "Intrepid Africa",
         location: "Cape Town",
-        period: "01/2024 - 01/2025",
+        period: "07/2024 - 01/2025",
         responsibilities: [
             "I offer customized tours in South Africa and Namibia, translation for Italian tourists, overnight stays and activities, guaranteeing unique and safe travel experiences.",
             "Information on local culture, wildlife and history, development of web scraping tools to find the best offers on activities and accommodations.",
