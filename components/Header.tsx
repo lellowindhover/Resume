@@ -7,7 +7,7 @@ const Header: React.FC = () => {
             <div className="flex flex-col md:flex-row justify-between items-start">
                 <div>
                     <h1 className="text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">Gaio Bardelle</h1>
-                    <h2 className="text-lg md:text-xl font-semibold text-teal-600 mt-1">TECHNICAL SUPPORT AND ITALIAN LANGUAGE LIAISON</h2>
+                    <h2 className="text-lg md:text-xl font-semibold text-teal-600 mt-1">TECHNICAL SUPPORT AND SPECIALISED TRAINING</h2>
                 </div>
                 <div className="text-sm text-gray-600 mt-6 md:mt-0 md:text-right space-y-1">
                     <p className="flex items-center justify-start md:justify-end">
