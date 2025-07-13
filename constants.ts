@@ -1,7 +1,7 @@
 
 import { WorkExperience, Education, SoftwareSkill, SkillLevel, Certification, Language } from './types';
 
-export const PROFESSIONAL_SUMMARY = "Dynamic professional with extensive experience in technical support and customer service. Proven mediation and critical evaluation capacity, enhancing client relationships and operational efficiency. Adept in predictive maintenance and Python programming, delivering tailored solutions for positive success and satisfaction. Recognized for fostering positive work environments and achieving high customer satisfaction.";
+export const PROFESSIONAL_SUMMARY = "Dynamic professional with extensive experience in teaching and technical support. Proven mediation and critical evaluation capacity, enhancing client relationships and operational efficiency. Adept in predictive maintenance and Python programming, delivering tailored solutions for positive success and satisfaction. Recognized for fostering positive work environments and achieving high customer satisfaction.";
 
 export const CORE_SKILLS = [
     "Representative experience",
@@ -14,7 +14,7 @@ export const CORE_SKILLS = [
 
 export const WORK_HISTORY: WorkExperience[] = [
     {
-        role: "Technical Support and Italian Language Liaison",
+        role: "Business intelligence and Technical Support",
         company: "Estella Group (Pty) Ltd",
         location: "Cape Town, South Africa",
         period: "10/2024 - Current",
@@ -36,7 +36,7 @@ export const WORK_HISTORY: WorkExperience[] = [
         ]
     },
     {
-        role: "HVAC Technician",
+        role: "HVAC Technician. App development",
         company: "P.RI.S.T.",
         location: "Trieste, Italy",
         period: "12/2022 - 07/2024",
